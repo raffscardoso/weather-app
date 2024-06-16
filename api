@@ -1,0 +1,5 @@
+Api Key: a34deb2c3c706b4554770a1416648c5a
+
+Api call: https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+https://api.openweathermap.org/data/2.5/weather?q=${city name}&appid=a34deb2c3c706b4554770a1416648c5a&units=metric
